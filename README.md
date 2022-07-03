@@ -1,4 +1,4 @@
-# ml_fonrtend
+# ml_frontend
 
 ## Project setup
 ```
